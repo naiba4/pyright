@@ -930,7 +930,7 @@
     },
     "dependencies": {
         "vscode-jsonrpc": "8.1.0-next.1",
-        "vscode-languageclient": "8.1.0-next.1",
+        "vscode-languageclient": "8.1.0",
         "vscode-languageserver": "8.1.0-next.1",
         "vscode-languageserver-protocol": "3.17.3-next.1"
     },
